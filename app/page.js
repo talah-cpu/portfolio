@@ -68,7 +68,7 @@ export default function Portfolio() {
       title: 'Currency Converter',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
       liveLink: 'https://your-currency-converter.vercel.app',
-      codeLink: 'https://github.com/talah-cpu/currency-converter',
+      codeLink: 'https://github.com/talah-cpu/currency-convertor',
       bgImage: '/currency.jpeg'
     },
     {
