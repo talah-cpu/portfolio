@@ -53,28 +53,28 @@ export default function Portfolio() {
     {
       title: 'Calculator',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://talha-calculatr.netlify.app/', // YAHAN APNA LIVE PROJECT LINK
+      liveLink: 'https://talha-calculatr.vercel.app/', // YAHAN APNA LIVE PROJECT LINK
       codeLink: 'https://github.com/talah-cpu/calculator', // YAHAN APNA GITHUB REPO LINK
       bgImage: '/calculator.jpeg'
     },
     {
       title: 'Password Manager',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://password-manager-js.netlify.app/',
+      liveLink: 'https://password-manager-js.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/password-manager',
       bgImage: '/password.jpeg'
     },
     {
       title: 'Currency Converter',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://curency-convertor.netlify.app/',
+      liveLink: 'https://curency-convertor.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/currency-convertor',
       bgImage: '/currency.jpeg'
     },
     {
       title: 'Portfolio',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://talahportfolio.netlify.app/',
+      liveLink: 'https://talahportfolio.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/portfolio',
       bgImage: '/portfolio.jpeg'
     }
