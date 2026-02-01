@@ -74,7 +74,7 @@ export default function Portfolio() {
     {
       title: 'Portfolio',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://talhaportfolio-peach.vercel.app/',
+      liveLink: 'https://portfolio-seven-chi-98.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/portfolio',
       bgImage: '/portfolio.jpeg'
     }
