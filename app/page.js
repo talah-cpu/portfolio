@@ -53,21 +53,21 @@ export default function Portfolio() {
     {
       title: 'Calculator',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://talha-calculatr.vercel.app/', // YAHAN APNA LIVE PROJECT LINK
+      liveLink: 'https://calculatr-omega.vercel.app/', // YAHAN APNA LIVE PROJECT LINK
       codeLink: 'https://github.com/talah-cpu/calculator', // YAHAN APNA GITHUB REPO LINK
       bgImage: '/calculator.jpeg'
     },
     {
       title: 'Password Manager',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://password-manager-js.vercel.app/',
+      liveLink: 'https://password-manager-sigma-seven.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/password-manager',
       bgImage: '/password.jpeg'
     },
     {
       title: 'Currency Converter',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://curency-convertor.vercel.app/',
+      liveLink: 'https://currency-convertor-kappa-puce.vercel.app/',
       codeLink: 'https://github.com/talah-cpu/currency-convertor',
       bgImage: '/currency.jpeg'
     },
