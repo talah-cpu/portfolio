@@ -74,7 +74,7 @@ export default function Portfolio() {
     {
       title: 'Portfolio',
       tech: ['Next.js', 'Tailwind CSS', 'JavaScript'],
-      liveLink: 'https://your-portfolio.vercel.app',
+      liveLink: 'https://your-portfolio.netlify.app',
       codeLink: 'https://github.com/talah-cpu/portfolio',
       bgImage: '/portfolio.jpeg'
     }
